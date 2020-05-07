@@ -1,7 +1,6 @@
 ---
 title: E-Surance
 ---
-# Links
 ## Vision
 https://github.com/dhbw-de/E-Surance/wiki/Vision
 ## Personas
