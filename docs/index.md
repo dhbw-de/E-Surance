@@ -1,7 +1,7 @@
 ---
 title: E-Surance
 ---
-# Gruppe: Juliana Herzog, Andreas Späth, Tim Geweniger, Yannik Haug
+## Gruppe: Juliana Herzog, Andreas Späth, Tim Geweniger, Yannik Haug
 # Links
 ## Vision
 https://github.com/dhbw-de/E-Surance/wiki/Vision
