@@ -1,7 +1,6 @@
 ---
 title: E-Surance
 ---
-## Gruppe: Juliana Herzog, Andreas Späth, Tim Geweniger, Yannik Haug
 # Links
 ## Vision
 https://github.com/dhbw-de/E-Surance/wiki/Vision
@@ -9,3 +8,6 @@ https://github.com/dhbw-de/E-Surance/wiki/Vision
 https://github.com/dhbw-de/E-Surance/wiki/Personas
 ## Customer Experience Journey
 https://github.com/dhbw-de/E-Surance/projects/1
+---
+## Gruppe:
+Juliana Herzog, Andreas Späth, Tim Geweniger, Yannik Haug
