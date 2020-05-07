@@ -10,8 +10,10 @@ https://github.com/dhbw-de/E-Surance/wiki/Personas---Stories
 https://github.com/dhbw-de/E-Surance/projects/1
 
 ---
+---
 
 ## Gruppenmitglieder:
 Juliana Herzog, Andreas Späth, Tim Geweniger, Yannik Haug
 
+---
 ---
